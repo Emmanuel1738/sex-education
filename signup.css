@@ -1,0 +1,65 @@
+nav {background-image: url=("/images/feedback.jpeg";
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    padding-bottom: 0px;
+    justify-content: center;
+}
+
+nav>ul>li {
+    display: inline;
+    margin: 70px;
+    list-style-type: none;
+    justify-content: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px 10p;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+div ul li {
+    display: inline;
+    margin: 30px;
+    list-style-type: none;
+}
+
+#footer {
+    background-color: maroon;
+    text-align: center;
+    font-style: normal;
+    padding-bottom: 10px;
+    color: black;
+    position: relative;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.home p {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 30px;
+}
+table {
+    text-align: center;
+}
+
+footer {
+    background-color: maroon;
+    text-align: center;
+    font-style: normal;
+    width: 100%;
+}
